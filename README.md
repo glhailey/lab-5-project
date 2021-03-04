@@ -1,7 +1,7 @@
 # lab-5-project
 
 ### <u> Group Members: </u>
-- 
+- Gaige Hailey
 - 
 - Rankin Tran
 
