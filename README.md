@@ -1,4 +1,10 @@
 # lab-5-project
-A repository for the work to be done on lab-5
 
-This project will contain a program that does something to a string input.
+### <u> Group Members: </u>
+- 
+- 
+- Rankin Tran
+
+### <u> Program Description: </u>
+This program takes a name input to output a greeting. 
+Another input is then taken, scrambled, and printed.
