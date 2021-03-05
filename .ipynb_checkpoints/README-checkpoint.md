@@ -2,7 +2,7 @@
 
 ### <u> Group Members: </u>
 - Gaige Hailey
-- Jessica Flynn
+- 
 - Rankin Tran
 
 ### <u> Program Description: </u>
