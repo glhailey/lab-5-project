@@ -29,9 +29,15 @@ def scrambleWords(phrase):
 
 name = input("What is your name? ")
 
-inputString = input("Enter a string as input: ")
+
 # This can change later, depending on what our program actually does
 
 #TODO do something to the input
 
-print("Hello, "+name+". Your input was "+inputString)
+print("Hello, "+name)
+inputString = input("Enter text to be scrambled: ")
+print("\nHere are 5 ways to scramble those words:\n")
+
+
+for x in range(5):
+    print(scrambleWords(inputString))
