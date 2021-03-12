@@ -1,10 +1,22 @@
-# lab-5-project
+# The Program
+---
+This program takes text as input and returns a set of possible word scrambles for that text. 
 
-### <u> Group Members: </u>
-- Gaige Hailey
-- Jessica Flynn
-- Rankin Tran
+# Using the Program
+---
+Get started by downloading the repository with 
+`git clone https://github.com/glhailey/lab-5-project`
 
-### <u> Program Description: </u>
-This program takes a name input to output a greeting. 
-Another input is then taken, scrambled, and printed.
+Run program.py from the command line on your machine.
+
+# License
+---
+This code is licensed under the GNU General Public License.
+
+Any use of code from this repository must abide by the terms set out in the license. 
+
+See [LICENSE.md](../blob/master/LICENSE.md) for the full license.
+
+# Code of conduct
+---
+For information about expected behavior, see [CODE-OF-CONDUCT.md](../blob/master/CODE-OF-CONDUCT.md)
