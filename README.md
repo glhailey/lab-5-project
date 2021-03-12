@@ -12,7 +12,7 @@ This code is licensed under the GNU General Public License.
 
 Any use of code from this repository must abide by the terms set out in the license. 
 
-See [LICENSE.md](../blob/master/LICENSE.md) for the full license.
+See [LICENSE.md](./LICENSE.md) for the full license.
 
 # Code of conduct
-For information about expected behavior, see [CODE-OF-CONDUCT.md](../blob/master/CODE-OF-CONDUCT.md)
+For information about expected behavior, see [CODE-OF-CONDUCT.md](./CODE-OF-CONDUCT.md)
